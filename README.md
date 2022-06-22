@@ -5,7 +5,30 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiagofga&theme=darkhub" alt="tiagofga" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tiagofga" target="blank"><img src="https://img.shields.io/twitter/follow/tiagofga?logo=twitter&style=for-the-badge" alt="tiagofga" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/tiagofga" target="blank"><img src="https://img.shields.io/twitter/follow/tiagofga?logo=twitter&style=for-the-badge" alt="tiagofga" /></a> </p> -->
+<div align="center">
+<a href="https://github.com/tiagofga" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/tiagofga" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/tiagofga" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/tiagofga" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/tiagoalvesdeoliveira" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/tiagofga" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/2011194" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+</div> 
 
 - 📫 How to reach me **tiagofga@gmail.com**
 
