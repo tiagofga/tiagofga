@@ -73,7 +73,7 @@ Here are some public repositories that reflect different parts of my work:
 - [**ModeloPreProjetoPFC**](https://github.com/tiagofga/ModeloPreProjetoPFC)  
   Template for undergraduate final project pre-proposals in Computer Engineering.
 
-- [**Modelo-de-Apresenta-o-CEFET-MG**](https://github.com/tiagofga/Modelo-de-Apresenta-o-CEFET-MG)  
+- [**Modelo-de-Apresenta-o-CEFET-MG**](https://github.com/tiagofga/Modelo-de-Apresentacao-CEFET-MG)  
   Presentation template for final project defenses and academic use.
 
 ---
