@@ -87,7 +87,7 @@ Here are some public repositories that reflect different parts of my work:
   <a href="https://orcid.org/0000-0002-2541-9305">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
-  <a href="http://lattes.cnpq.br/SEU_ID_AQUI">
+  <a href="http://lattes.cnpq.br/5021181563738789">
     <img src="https://img.shields.io/badge/Lattes-1E88E5?style=for-the-badge" alt="Lattes" />
   </a>
   <a href="http://www.tiagofga.com.br/">
