@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago Alves de Oliveira</h1>
-<h3 align="center">Professor & Researcher at <a href="https://www.cefetmg.br" target="_blank">CEFET-MG</a> · Brazil</h3>
+<h3 align="center">Professor and Researcher at <a href="https://www.cefetmg.br" target="_blank">CEFET-MG</a> · Brazil</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tiagofga&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -15,11 +15,11 @@
 
 ### 👨‍🏫 About me
 
-- 🇧🇷 Professor of Computer Engineering at CEFET-MG (Campus Divinópolis)
-- 🎓 PhD in Bioengineering · deep learning for drug discovery and bioinformatics
-- 🧠 Interests: machine learning, MLOps, Linux, distributed systems and teaching
-- 💻 I like to build data pipelines, APIs, dashboards, teaching material and open-source tools
-- 📫 How to reach me: **tiagofga@gmail.com**
+- 🇧🇷 Professor of Computer Engineering at CEFET-MG (Divinópolis Campus)
+- 🎓 PhD in Bioengineering, with research focused on deep learning for drug discovery and bioinformatics
+- 🧠 Interests: machine learning, MLOps, Linux, distributed systems, and teaching
+- 💻 I build data pipelines, APIs, dashboards, teaching materials, and open-source tools
+- 📫 Contact: **tiagofga@gmail.com**
 
 ---
 
@@ -53,7 +53,7 @@
 
 ### 🛠️ Languages & Tools
 
-**Daily drivers**
+**Core technologies**
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
@@ -96,7 +96,7 @@
   </a>
 </p>
 
-**Web, Apps & Databases**
+**Web, Mobile & Databases**
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
@@ -146,7 +146,7 @@
 </p>
 
 <details>
-  <summary>🔍 More tools I’ve used</summary>
+  <summary>🔍 Additional tools I have used</summary>
   <p align="left">
     <a href="https://developer.android.com" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
