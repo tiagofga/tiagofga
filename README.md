@@ -186,7 +186,7 @@ I’m open to collaboration in areas such as:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img scr="https://github-readme-activity-graph.vercel.app/graph?username=tiagofga&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&hide_border=true" width="100%" alt="Tiago Activity/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiagofga&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&hide_border=true" width="100%" alt="Tiago Activity" />
 </p>
 
 <p align="center">
