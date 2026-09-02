@@ -15,7 +15,7 @@ I am a **Computer Engineering professor at CEFET-MG**, a researcher in **AI for 
 
 - 🔬 I research **deep learning, virtual screening, molecular representations, and bioinformatics**.
 - 🎓 I hold a **PhD in Bioengineering**.
-- 👨‍🏫 I create teaching materials for programming, data structures, and software development.
+- 👨‍🏫 I create structured teaching resources for artificial intelligence, programming, algorithms, and data structures.
 - 🧪 I build scientific software, data pipelines, and machine-learning experiments.
 - 🌱 I am currently exploring better ways to make AI-assisted research **reproducible and accessible**.
 - 🤝 I welcome collaborations at the intersection of **artificial intelligence, science, and education**.
@@ -37,9 +37,9 @@ My work focuses on machine- and deep-learning methods for drug discovery and rep
 
 | Project | What you will find |
 | :--- | :--- |
+| [**EC-IA**](https://github.com/tiagofga/EC-IA) | A public teaching hub for Artificial Intelligence at CEFET-MG, with guided studies, conceptual pseudocode, activities, and [interactive search-algorithm visualizations](https://tiagofga.github.io/EC-IA/). |
 | [**mlp**](https://github.com/tiagofga/mlp) | A C++ multilayer perceptron implementation with CMake, examples, tests, and optional OpenMP/CUDA backends. |
-| [**Estruturas-de-Dados-em-C**](https://github.com/tiagofga/Estruturas-de-Dados-em-C) | C implementations and educational material for learning data structures. |
-| [**be-the-hero**](https://github.com/tiagofga/be-the-hero) | A full-stack learning project with backend, web, and mobile applications. |
+| [**Estruturas-de-Dados-e-Algoritmos-em-C**](https://github.com/tiagofga/Estruturas-de-Dados-e-Algoritmos-em-C) | C implementations and educational material for learning algorithms and data structures. |
 | [**ModeloPreProjetoPFC**](https://github.com/tiagofga/ModeloPreProjetoPFC) | A reusable template for Computer Engineering undergraduate project proposals. |
 | [**Modelo-de-Apresentação-CEFET-MG**](https://github.com/tiagofga/Modelo-de-Apresentacao-CEFET-MG) | An academic presentation template for final project defenses. |
 
@@ -117,7 +117,7 @@ My work focuses on machine- and deep-learning methods for drug discovery and rep
 <p align="center">
   <a href="mailto:tiagofga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/tiagofga"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="http://www.tiagofga.com.br/"><img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.tiagofga.com.br/"><img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://stackoverflow.com/users/2011194"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://www.youtube.com/user/tiagofga"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
